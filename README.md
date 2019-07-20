@@ -5,10 +5,10 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [Relax]
+> Relax
 
 My favorite color:
 
-> [Green]
+> Green
 
 Thank you so much for reading! ☺
